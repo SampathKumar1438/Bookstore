@@ -1,0 +1,53 @@
+.header{
+    background-color: rgb(241, 183, 107);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+.navbar{
+    list-style: none;
+    text-align: center;
+    word-spacing: 80px;
+    padding: 10px;
+}
+.bookstore{
+    padding: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 90%;
+}
+p{
+    float: left;
+    font-weight: bold;
+}
+.h1{
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+#aboutus{
+    align-items: center;
+    height: 300px;
+    width: auto;
+}
+.clickhere{
+    text-decoration: underline;
+    text-align: right;
+}
+.product{
+    display: flex;
+    height: 300px;
+}
+.pr{
+    text-align: center;
+}
+.cl{
+    float: right;
+    text-decoration: underline;
+}
